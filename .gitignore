@@ -7,6 +7,8 @@
 .DS_Store
 Thumbs.db
 
-# Quartz build output (added once publishing is set up)
+# Quartz static site generator
+node_modules/
 public/
 .quartz-cache/
+.quartz/
