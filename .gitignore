@@ -6,9 +6,3 @@
 # OS cruft
 .DS_Store
 Thumbs.db
-
-# Quartz static site generator
-node_modules/
-public/
-.quartz-cache/
-.quartz/
