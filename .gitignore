@@ -1,0 +1,12 @@
+# Obsidian workspace/cache — local only, not shared
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Quartz build output (added once publishing is set up)
+public/
+.quartz-cache/
